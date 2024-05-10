@@ -2,6 +2,7 @@
   "title": "Curriculum Vitae - Eric Salle",
   "profil": "Perfil",
   "description": "<0>Desarrollador front-end desde 2017</0>, creo funcionalidades y mantengo tus sitios y aplicaciones.",
+  "passionate": "Apasionado por mi trabajo y siempre buscando la <0>calidad</0>, brindo soluciones industriales para sus interfaces.",
   "qualities": "<0>Curioso y siempre buscando novedades</0>, disfruto comunicándome e introduciendo a mis colegas nuevos métodos y nuevas herramientas.",
   "remote": "Por fin, gracias a mi experiencia remota, puedo responder a sus solicitudes a distancia <0>con total autonomía</0>.",
   "altaprofitsTitle": "Altaprofits <0>Marzo 2017- Marzo 2020</0>",
@@ -21,7 +22,9 @@
     "Gestión de derechos auth0",
     "Implementación desde una base de datos mongoDB",
     "Typescript",
-    "Pruebas de integración, pruebas de unidad"
+    "Pruebas de integración, pruebas de unidad",
+    "Tailwind",
+    "Redux toolkit"
   ],
   "24sTitle": "24s (grupo LVMH) <0>Octubre 2022 - ...</0>",
   "24sIntroduction": "Dentro del capítulo web conformado por 4 personas, mantenimiento y desarrollo de nuevas funcionalidades para la plataforma de comercio electrónico 24s.",
@@ -31,12 +34,20 @@
     "Intervención en varios equipos",
     "Integración del diseño de los modelos figma",
     "Typescript",
-    "Pruebas de integración, pruebas de unidad"
+    "Pruebas de integración, pruebas de unidad",
+    "Css modules, tailwind",
+    "Redux toolkit"
   ],
   "hardSkills": "Habilidades",
   "languages": "Idiomas",
   "french": "Francés",
   "english": "Inglés",
   "spanish": "Español",
-  "contact": "Contactar"
+  "contact": "Contactar",
+  "formation": "Educación",
+  "formationIntroduction": "Lista de cursos de formación que he completado.",
+  "formations": [
+    "Maestría en Biología-Salud - 2015",
+    "Título de técnico superior - Servicios TI a organizaciones - 2019"
+  ]
 }

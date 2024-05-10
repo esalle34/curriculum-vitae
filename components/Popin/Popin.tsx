@@ -25,7 +25,7 @@ const Popin = ({
   >
     <div className="flex flex-col gap-2 md:w-1/4 bg-slate-100 py-4 px-6 rounded z-10 border-2 border-slate-200">
       <div className="flex justify-between items-center">
-        <h3 className="py-2 text-lg font-semibold text-blue-800">{title}</h3>
+        <h3 className="py-2 text-lg font-semibold text-sky-800">{title}</h3>
         <Image
           onClick={() => setDisplayed(false)}
           className="cursor-pointer"

@@ -3,8 +3,8 @@
 exports[`ProfileImage should match snapshot correctly 1`] = `
 <div>
   <img
-    class="h-48 md:w-60 md:h-60"
-    src="/images/Diabolo.jpeg"
+    class="md:w-44 self-center mb-8 rounded shadow-xl"
+    src="/images/eric-salle.jpg"
   />
 </div>
 `;

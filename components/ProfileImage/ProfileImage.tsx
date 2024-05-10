@@ -1,5 +1,8 @@
 const ProfileImage = () => (
-  <img className="h-48 md:w-60 md:h-60" src="/images/Diabolo.jpeg" />
+  <img
+    className="md:w-44 self-center mb-8 rounded shadow-xl"
+    src="/images/eric-salle.jpg"
+  />
 );
 
 export default ProfileImage;

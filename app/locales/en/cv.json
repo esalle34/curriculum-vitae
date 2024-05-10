@@ -2,8 +2,9 @@
   "title": "Curriculum Vitae - Eric Salle",
   "profil": "Profile",
   "description": "<0>As frontend software engineer since 2017</0>, i bring new nice user interface features and do the maintenance of your websites and apps.",
-  "qualities": "<0>Curious and always seeking new opportunities to learn</0>, i like to communicate and bring new skills to my team members.",
-  "remote": "Furthermore, having experience as remote software engineer, i am able to work with appreciable <0>autonomy</0> as a remote team member.",
+  "passionate": "Passionate about my job and always looking for <0>quality</0>, I bring conventional solutions to your interfaces.",
+  "qualities": "<0>Curious and always looking for new opportunities to learn</0>, i like to communicate and bring new skills to my team members.",
+  "remote": "Furthermore, having experience as remote software engineer, i am able to work with appreciable <0>autonomy</0> remotely.",
   "altaprofitsTitle": "Altaprofits <0>March 2017- March 2020</0>",
   "altaprofitsIntroduction": "Within a team of 3 people, maintenance and development of front-end interfaces.",
   "altaprofitsWork": [
@@ -21,7 +22,9 @@
     "Management of auth0 rights",
     "Implementation from a mongoDB database",
     "Typescript",
-    "Unit tests, integration tests"
+    "Unit tests, integration tests",
+    "Tailwind",
+    "Redux toolkit"
   ],
   "24sTitle": "24s (LVMH group) <0>October 2022 - ...</0>",
   "24sIntroduction": "Within the web chapter made up of 4 people, maintenance and development of new features for the 24s e-commerce platform.",
@@ -31,12 +34,20 @@
     "Intervention within several feature teams",
     "Integration of design from figma models",
     "Typescript",
-    "Unit tests, integration tests"
+    "Unit tests, integration tests",
+    "Css modules, tailwind",
+    "Redux toolkit"
   ],
   "hardSkills": "Skills",
   "languages": "Languages",
   "french": "French",
   "english": "English",
   "spanish": "Spanish",
-  "contact": "Contact me"
+  "contact": "Contact me",
+  "formation": "Education",
+  "formationIntroduction": "Below is the list of training courses I have completed.",
+  "formations": [
+    "Master degree in Biology-Health - 2015",
+    "Higher technician certificate - IT services to organizations - 2019"
+  ]
 }

@@ -7,6 +7,7 @@ describe("DescriptionBlock", () => {
     const { container } = render(
       <DescriptionBlock
         description={dict.description}
+        passionate={dict.passionate}
         qualities={dict.qualities}
         remote={dict.remote}
       />

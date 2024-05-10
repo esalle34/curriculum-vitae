@@ -10,7 +10,7 @@ interface Props {
 }
 
 const Profile = ({ profileSkills, profileSocialMedial }: Props) => (
-  <div className="md:ml-4 flex flex-col w-full h-max md:w-60  md:border-2 rounded border-blue-800 md:shadow-xl">
+  <div className="md:ml-4 flex flex-col h-max ">
     <ProfileImage />
     <ProfileSkills
       hardSkills={profileSkills.hardSkills}

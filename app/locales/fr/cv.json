@@ -2,6 +2,7 @@
   "title": "Curriculum Vitae - Eric Salle",
   "profil": "Profil",
   "description": "<0>Développeur front-end depuis 2017</0>, je crée des fonctionnalités et réalise la maintenance de vos sites et applications.",
+  "passionate": "Passioné par mon métier et toujours à la recherche de la <0>qualité</0>, j'apporte des solutions industrielles pour vos interfaces.",
   "qualities": "<0>Curieux et toujours à la recherche de la nouveauté</0>, j'apprécie communiquer et faire découvrir à mes collègues de nouvelles méthodes et de nouveaux outils.",
   "remote": "Enfin, fort d'une expérience en remote je suis capable de pourvoir à vos demandes à distance <0>en toute autonomie</0>.",
   "altaprofitsTitle": "Altaprofits <0>Mars 2017- Mars 2020</0>",
@@ -21,7 +22,9 @@
     "Gestion des droits auth0",
     "Mise en place à partir d'une base mongoDB",
     "Typescript",
-    "Tests unitaire, tests d'intégration"
+    "Tests unitaire, tests d'intégration",
+    "Tailwind",
+    "Redux toolkit"
   ],
   "24sTitle": "24s (LVMH group) <0>Octobre 2022 - ...</0>",
   "24sIntroduction": "Au sein du chapitre web constitué de 4 personnes, maintenance et développement de nouvelles fonctionnalités pour la plateforme e-commerce de 24s.",
@@ -31,12 +34,20 @@
     "Intervention au sein de plusieurs feature team",
     "Integration du design à partir de maquettes figma",
     "Typescript",
-    "Tests unitaire, tests d'intégration"
+    "Tests unitaire, tests d'intégration",
+    "Css modules, tailwind",
+    "Redux toolkit"
   ],
   "hardSkills": "Compétences",
   "languages": "Langues",
   "french": "Français",
   "english": "Anglais",
   "spanish": "Espagnol",
-  "contact": "Contact"
+  "contact": "Contact",
+  "formation": "Formations",
+  "formationIntroduction": "Ci-dessous la liste des formations que j'ai réalisé.",
+  "formations": [
+    "Master en biologie-santé - 2015",
+    "Brevet de technicien supérieur - Services informatiques aux organisations - 2019"
+  ]
 }

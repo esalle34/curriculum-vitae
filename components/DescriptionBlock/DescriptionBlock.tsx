@@ -3,13 +3,19 @@ import parse from "html-react-parser";
 
 interface Props {
   description: string;
+  passionate: string;
   qualities: string;
   remote: string;
 }
 
-const DescriptionBlock = ({ description, qualities, remote }: Props) => (
-  <section className="flex flex-col pt-2 pb-8">
-    <p className="text-blue-800 leading-8">
+const DescriptionBlock = ({
+  description,
+  passionate,
+  qualities,
+  remote,
+}: Props) => (
+  <section className="flex flex-col pb-5 pt-3 text-sm">
+    <p className="text-sky-800 leading-8">
       {parse(
         decodeTranslation({
           translation: description,
@@ -17,7 +23,15 @@ const DescriptionBlock = ({ description, qualities, remote }: Props) => (
         })
       )}
     </p>
-    <p className="text-blue-800 leading-8">
+    <p className="text-sky-800 leading-8">
+      {parse(
+        decodeTranslation({
+          translation: passionate,
+          options: { htmlTag: "span", className: "font-semibold" },
+        })
+      )}
+    </p>
+    <p className="text-sky-800 leading-8">
       {parse(
         decodeTranslation({
           translation: qualities,
@@ -25,7 +39,7 @@ const DescriptionBlock = ({ description, qualities, remote }: Props) => (
         })
       )}
     </p>
-    <p className="text-blue-800 leading-8">
+    <p className="text-sky-800 leading-8">
       {parse(
         decodeTranslation({
           translation: remote,

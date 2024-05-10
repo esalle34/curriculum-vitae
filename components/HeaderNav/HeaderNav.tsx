@@ -21,11 +21,13 @@ const HeaderNav = ({ country, language, dict }: Props) => {
   return (
     <nav className="flex">
       <div className="flex w-full justify-between items-center">
-        <h1 className="pl-4 text-gray-100 font-bold text-lg my-2">
-          {dict.title}
-        </h1>
+        <a href="https://www.linkedin.com/in/%F0%9F%92%BB-eric-salle-431664109/">
+          <h1 className="pl-4 text-gray-100 font-bold text-2xl my-2 font-instagram">
+            {dict.title}
+          </h1>
+        </a>
         <button
-          className="mr-4 my-4 text-gray-100 font-semibold border-2 border-color-white p-2 rounded hover:bg-white hover:text-blue-800"
+          className="mr-4 my-4 text-gray-100 font-semibold border-2 border-color-white p-2 rounded hover:bg-white hover:text-sky-800"
           onClick={() => setDisplayed(true)}
         >
           {language.toUpperCase()} - {getUnicodeFlagIcon(country)}
@@ -40,7 +42,7 @@ const HeaderNav = ({ country, language, dict }: Props) => {
         <CountrySelect country={country} setNewCountry={setNewCountry} />
         <LanguageSelect language={language} setNewLanguage={setNewLanguage} />
         <button
-          className="self-end rounded-lg text-blue-800 border-blue-800 hover:bg-blue-800 hover:text-white border-2 p-2"
+          className="self-end rounded-lg text-sky-800 border-sky-800 hover:bg-sky-800 hover:text-white border-2 p-2"
           onClick={() => {
             router.push(`${newLanguage}-${newCountry}`);
             setDisplayed(false);

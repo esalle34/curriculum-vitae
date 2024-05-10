@@ -13,7 +13,7 @@ const Header = async ({ locale }: Props) => {
   const dict = await getDictionary(language, Pages.COMMON)[language]();
 
   return (
-    <header className="bg-blue-800">
+    <header className="bg-sky-800 w-full">
       <HeaderNav language={language} country={country} dict={dict} />
     </header>
   );

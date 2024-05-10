@@ -27,14 +27,19 @@ const Page = async ({ params: { locale } }: Props) => {
 
   return (
     <>
-      <div className="flex p-4 md:flex-row flex-col-reverse">
-        <div className="flex flex-col gap-12 pt-12">
+      <div className="flex p-4 md:flex-row flex-col-reverse justify-around">
+        <div className="flex flex-col gap-12 pt-6 ">
           <DescriptionBlock
             description={dict.description}
+            passionate={dict.passionate}
             qualities={dict.qualities}
             remote={dict.remote}
           />
-
+          <ExperienceBlock
+            title={dict.formation}
+            introduction={dict.formationIntroduction}
+            work={dict.formations}
+          />
           <ExperienceBlock
             title={dict.altaprofitsTitle}
             introduction={dict.altaprofitsIntroduction}

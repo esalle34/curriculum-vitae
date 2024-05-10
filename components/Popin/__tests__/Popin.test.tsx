@@ -7,11 +7,12 @@ describe("Popin", () => {
     const { container } = render(
       <Popin
         displayed
-        children={<></>}
         setDisplayed={jest.fn()}
         title={dict.chooseLanguage}
         closeText={dict.close}
-      />
+      >
+        <></>
+      </Popin>
     );
     expect(container).toMatchSnapshot();
   });
@@ -19,11 +20,12 @@ describe("Popin", () => {
     const { container } = render(
       <Popin
         displayed={false}
-        children={<></>}
         setDisplayed={jest.fn()}
         title={dict.chooseLanguage}
         closeText={dict.close}
-      />
+      >
+        <></>
+      </Popin>
     );
     expect(container).toMatchSnapshot();
   });
@@ -32,11 +34,12 @@ describe("Popin", () => {
     const { getByRole } = render(
       <Popin
         displayed={true}
-        children={<></>}
         setDisplayed={setDisplayed}
         title={dict.chooseLanguage}
         closeText={dict.close}
-      />
+      >
+        <></>
+      </Popin>
     );
     const closeSvg = getByRole("img");
     fireEvent.click(closeSvg);
@@ -47,11 +50,12 @@ describe("Popin", () => {
     const { getByTestId } = render(
       <Popin
         displayed={true}
-        children={<></>}
         setDisplayed={setDisplayed}
         title={dict.chooseLanguage}
         closeText={dict.close}
-      />
+      >
+        <></>
+      </Popin>
     );
     const background = getByTestId("background");
     fireEvent.click(background);

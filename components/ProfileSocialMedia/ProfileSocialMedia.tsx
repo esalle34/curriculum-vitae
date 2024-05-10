@@ -3,7 +3,7 @@ export interface Props {
 }
 
 const ProfileSocialeMedia = ({ contact }: Props) => (
-  <div className="bg-blue-800 border-blue-800 text-white border-b-2 md:border-0 rounded-b md:rounded-none p-3">
+  <div className="bg-sky-800 border-sky-800 text-white border-b-2 rounded-b p-3">
     <p className="text-xl pb-4 text-center font-semibold">{contact}</p>
     <div className="text-sm flex flex-col gap-4">
       <a
@@ -17,9 +17,18 @@ const ProfileSocialeMedia = ({ contact }: Props) => (
       </a>
       <a
         className="flex justify-between items-center"
-        href="mail:esalle34@gmail.com"
+        href="mailto:esalle34@gmail.com"
       >
         <img src="/images/mail.svg" width={30} /> esalle34@gmail.com
+      </a>
+      <a
+        className="flex justify-between items-center"
+        href="https://github.com/esalle34/curriculum-vitae"
+      >
+        <img src="/images/github-icon.svg" width={30} />
+        <span className="pl-4 text-right">
+          https://github.com/esalle34/curriculum-vitae
+        </span>
       </a>
     </div>
   </div>

@@ -13,49 +13,49 @@ const ProfileSkills = ({
   english,
   spanish,
 }: Props) => (
-  <div className="bg-blue-800 border-blue-800 border-t-2 rounded-t md:rounded-none text-white p-3">
+  <div className="bg-sky-800 border-sky-800 border-t-2 rounded-t text-white p-3">
     <p className="text-xl pb-4 text-center font-semibold">{hardSkills}</p>
     <ul className="text-sm">
       <li className="flex justify-between">
         Javascript
-        <span className="flex">
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
+        <span className="flex gap-1">
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
         </span>
       </li>
       <li className="flex justify-between">
         CSS
-        <span className="flex">
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
+        <span className="flex gap-1">
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
         </span>
       </li>
       <li className="flex justify-between">
         React
-        <span className="flex">
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
+        <span className="flex gap-1">
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
         </span>
       </li>
       <li className="flex justify-between">
         Typescript
-        <span className="flex">
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
+        <span className="flex gap-1">
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
         </span>
       </li>
       <li className="flex justify-between">
         Next
-        <span className="flex">
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
+        <span className="flex gap-1">
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
         </span>
       </li>
     </ul>
@@ -63,29 +63,29 @@ const ProfileSkills = ({
     <ul>
       <li className="flex justify-between">
         {french}
-        <span className="flex">
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
+        <span className="flex gap-1">
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
         </span>
       </li>
       <li className="flex justify-between">
         {english}
-        <span className="flex">
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
+        <span className="flex gap-1">
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
         </span>
       </li>
       <li className="flex justify-between">
         {spanish}
-        <span className="flex">
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
-          <img src="/images/yellowStar.png" width={20} />
+        <span className="flex gap-1">
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
+          <img src="/images/yellowStar.svg" width={20} />
         </span>
       </li>
     </ul>

@@ -3,7 +3,7 @@
 exports[`ProfileSkills should match snapshot correctly 1`] = `
 <div>
   <div
-    class="bg-blue-800 border-blue-800 border-t-2 rounded-t md:rounded-none text-white p-3"
+    class="bg-sky-800 border-sky-800 border-t-2 rounded-t text-white p-3"
   >
     <p
       class="text-xl pb-4 text-center font-semibold"
@@ -18,22 +18,22 @@ exports[`ProfileSkills should match snapshot correctly 1`] = `
       >
         Javascript
         <span
-          class="flex"
+          class="flex gap-1"
         >
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
         </span>
@@ -43,18 +43,18 @@ exports[`ProfileSkills should match snapshot correctly 1`] = `
       >
         CSS
         <span
-          class="flex"
+          class="flex gap-1"
         >
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
         </span>
@@ -64,22 +64,22 @@ exports[`ProfileSkills should match snapshot correctly 1`] = `
       >
         React
         <span
-          class="flex"
+          class="flex gap-1"
         >
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
         </span>
@@ -89,18 +89,18 @@ exports[`ProfileSkills should match snapshot correctly 1`] = `
       >
         Typescript
         <span
-          class="flex"
+          class="flex gap-1"
         >
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
         </span>
@@ -110,18 +110,18 @@ exports[`ProfileSkills should match snapshot correctly 1`] = `
       >
         Next
         <span
-          class="flex"
+          class="flex gap-1"
         >
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
         </span>
@@ -138,26 +138,26 @@ exports[`ProfileSkills should match snapshot correctly 1`] = `
       >
         Français
         <span
-          class="flex"
+          class="flex gap-1"
         >
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
         </span>
@@ -167,18 +167,18 @@ exports[`ProfileSkills should match snapshot correctly 1`] = `
       >
         Anglais
         <span
-          class="flex"
+          class="flex gap-1"
         >
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
         </span>
@@ -188,22 +188,22 @@ exports[`ProfileSkills should match snapshot correctly 1`] = `
       >
         Espagnol
         <span
-          class="flex"
+          class="flex gap-1"
         >
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
           <img
-            src="/images/yellowStar.png"
+            src="/images/yellowStar.svg"
             width="20"
           />
         </span>

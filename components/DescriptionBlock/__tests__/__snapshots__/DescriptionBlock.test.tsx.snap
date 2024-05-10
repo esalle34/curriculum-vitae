@@ -3,10 +3,10 @@
 exports[`DescriptionBlock should match snapshot 1`] = `
 <div>
   <section
-    class="flex flex-col pt-2 pb-8"
+    class="flex flex-col pb-5 pt-3 text-sm"
   >
     <p
-      class="text-blue-800 leading-8"
+      class="text-sky-800 leading-8"
     >
       <span
         class="font-semibold"
@@ -16,7 +16,18 @@ exports[`DescriptionBlock should match snapshot 1`] = `
       , je crée des fonctionnalités et réalise la maintenance de vos sites et applications.
     </p>
     <p
-      class="text-blue-800 leading-8"
+      class="text-sky-800 leading-8"
+    >
+      Passioné par mon métier et toujours à la recherche de la 
+      <span
+        class="font-semibold"
+      >
+        qualité
+      </span>
+      , j'apporte des solutions industrielles pour vos interfaces.
+    </p>
+    <p
+      class="text-sky-800 leading-8"
     >
       <span
         class="font-semibold"
@@ -26,7 +37,7 @@ exports[`DescriptionBlock should match snapshot 1`] = `
       , j'apprécie communiquer et faire découvrir à mes collègues de nouvelles méthodes et de nouveaux outils.
     </p>
     <p
-      class="text-blue-800 leading-8"
+      class="text-sky-800 leading-8"
     >
       Enfin, fort d'une expérience en remote je suis capable de pourvoir à vos demandes à distance 
       <span

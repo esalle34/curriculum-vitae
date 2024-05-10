@@ -310,6 +310,7 @@ const config: Config = {
       DEFAULT: "1",
     },
     fontFamily: {
+      instagram: "instagram",
       sans: [
         "ui-sans-serif",
         "system-ui",

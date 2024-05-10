@@ -3,20 +3,20 @@
 exports[`ExperienceBlock should match 24s EN translations snapshot 1`] = `
 <div>
   <section
-    class="flex flex-col border-2 rounded-xl shadow-md"
+    class="flex flex-col border-2 border-sky-800 rounded-xl shadow-md"
   >
     <h3
-      class="flex text-blue-800 font-bold italic p-4 text-2xl mb-4 border-b-2 justify-between items-center"
+      class="flex text-sky-800 font-bold border-sky-800 italic p-4 text-2xl mb-4 justify-between items-center"
     >
       24s (LVMH group) 
       <span
-        class="pl-4 text-base text-blue-500"
+        class="pl-4 text-base text-sky-500"
       >
         October 2022 - ...
       </span>
     </h3>
     <p
-      class="text-blue-500 px-4 leading-8"
+      class="text-sky-500 px-4 leading-8"
     >
       Within the web chapter made up of 4 people, maintenance and development of new features for the 24s e-commerce platform.
     </p>
@@ -53,6 +53,16 @@ exports[`ExperienceBlock should match 24s EN translations snapshot 1`] = `
       >
         Unit tests, integration tests
       </li>
+      <li
+        class="text-gray-600 leading-8 text-sm"
+      >
+        Css modules, tailwind
+      </li>
+      <li
+        class="text-gray-600 leading-8 text-sm"
+      >
+        Redux toolkit
+      </li>
     </ul>
   </section>
 </div>
@@ -61,20 +71,20 @@ exports[`ExperienceBlock should match 24s EN translations snapshot 1`] = `
 exports[`ExperienceBlock should match 24s ES translations snapshot 1`] = `
 <div>
   <section
-    class="flex flex-col border-2 rounded-xl shadow-md"
+    class="flex flex-col border-2 border-sky-800 rounded-xl shadow-md"
   >
     <h3
-      class="flex text-blue-800 font-bold italic p-4 text-2xl mb-4 border-b-2 justify-between items-center"
+      class="flex text-sky-800 font-bold border-sky-800 italic p-4 text-2xl mb-4 justify-between items-center"
     >
       24s (grupo LVMH) 
       <span
-        class="pl-4 text-base text-blue-500"
+        class="pl-4 text-base text-sky-500"
       >
         Octubre 2022 - ...
       </span>
     </h3>
     <p
-      class="text-blue-500 px-4 leading-8"
+      class="text-sky-500 px-4 leading-8"
     >
       Dentro del capítulo web conformado por 4 personas, mantenimiento y desarrollo de nuevas funcionalidades para la plataforma de comercio electrónico 24s.
     </p>
@@ -111,6 +121,16 @@ exports[`ExperienceBlock should match 24s ES translations snapshot 1`] = `
       >
         Pruebas de integración, pruebas de unidad
       </li>
+      <li
+        class="text-gray-600 leading-8 text-sm"
+      >
+        Css modules, tailwind
+      </li>
+      <li
+        class="text-gray-600 leading-8 text-sm"
+      >
+        Redux toolkit
+      </li>
     </ul>
   </section>
 </div>
@@ -119,20 +139,20 @@ exports[`ExperienceBlock should match 24s ES translations snapshot 1`] = `
 exports[`ExperienceBlock should match 24s translations snapshot 1`] = `
 <div>
   <section
-    class="flex flex-col border-2 rounded-xl shadow-md"
+    class="flex flex-col border-2 border-sky-800 rounded-xl shadow-md"
   >
     <h3
-      class="flex text-blue-800 font-bold italic p-4 text-2xl mb-4 border-b-2 justify-between items-center"
+      class="flex text-sky-800 font-bold border-sky-800 italic p-4 text-2xl mb-4 justify-between items-center"
     >
       24s (LVMH group) 
       <span
-        class="pl-4 text-base text-blue-500"
+        class="pl-4 text-base text-sky-500"
       >
         Octobre 2022 - ...
       </span>
     </h3>
     <p
-      class="text-blue-500 px-4 leading-8"
+      class="text-sky-500 px-4 leading-8"
     >
       Au sein du chapitre web constitué de 4 personnes, maintenance et développement de nouvelles fonctionnalités pour la plateforme e-commerce de 24s.
     </p>
@@ -169,6 +189,16 @@ exports[`ExperienceBlock should match 24s translations snapshot 1`] = `
       >
         Tests unitaire, tests d'intégration
       </li>
+      <li
+        class="text-gray-600 leading-8 text-sm"
+      >
+        Css modules, tailwind
+      </li>
+      <li
+        class="text-gray-600 leading-8 text-sm"
+      >
+        Redux toolkit
+      </li>
     </ul>
   </section>
 </div>
@@ -177,20 +207,20 @@ exports[`ExperienceBlock should match 24s translations snapshot 1`] = `
 exports[`ExperienceBlock should match Altaprofits EN translations snapshot 1`] = `
 <div>
   <section
-    class="flex flex-col border-2 rounded-xl shadow-md"
+    class="flex flex-col border-2 border-sky-800 rounded-xl shadow-md"
   >
     <h3
-      class="flex text-blue-800 font-bold italic p-4 text-2xl mb-4 border-b-2 justify-between items-center"
+      class="flex text-sky-800 font-bold border-sky-800 italic p-4 text-2xl mb-4 justify-between items-center"
     >
       Altaprofits 
       <span
-        class="pl-4 text-base text-blue-500"
+        class="pl-4 text-base text-sky-500"
       >
         March 2017- March 2020
       </span>
     </h3>
     <p
-      class="text-blue-500 px-4 leading-8"
+      class="text-sky-500 px-4 leading-8"
     >
       Within a team of 3 people, maintenance and development of front-end interfaces.
     </p>
@@ -230,20 +260,20 @@ exports[`ExperienceBlock should match Altaprofits EN translations snapshot 1`] =
 exports[`ExperienceBlock should match Altaprofits ES translations snapshot 1`] = `
 <div>
   <section
-    class="flex flex-col border-2 rounded-xl shadow-md"
+    class="flex flex-col border-2 border-sky-800 rounded-xl shadow-md"
   >
     <h3
-      class="flex text-blue-800 font-bold italic p-4 text-2xl mb-4 border-b-2 justify-between items-center"
+      class="flex text-sky-800 font-bold border-sky-800 italic p-4 text-2xl mb-4 justify-between items-center"
     >
       Altaprofits 
       <span
-        class="pl-4 text-base text-blue-500"
+        class="pl-4 text-base text-sky-500"
       >
         Marzo 2017- Marzo 2020
       </span>
     </h3>
     <p
-      class="text-blue-500 px-4 leading-8"
+      class="text-sky-500 px-4 leading-8"
     >
       Dentro de un equipo de 3 personas, mantenimiento y desarrollo de interfaces front-end.
     </p>
@@ -283,20 +313,20 @@ exports[`ExperienceBlock should match Altaprofits ES translations snapshot 1`] =
 exports[`ExperienceBlock should match Altaprofits translations snapshot 1`] = `
 <div>
   <section
-    class="flex flex-col border-2 rounded-xl shadow-md"
+    class="flex flex-col border-2 border-sky-800 rounded-xl shadow-md"
   >
     <h3
-      class="flex text-blue-800 font-bold italic p-4 text-2xl mb-4 border-b-2 justify-between items-center"
+      class="flex text-sky-800 font-bold border-sky-800 italic p-4 text-2xl mb-4 justify-between items-center"
     >
       Altaprofits 
       <span
-        class="pl-4 text-base text-blue-500"
+        class="pl-4 text-base text-sky-500"
       >
         Mars 2017- Mars 2020
       </span>
     </h3>
     <p
-      class="text-blue-500 px-4 leading-8"
+      class="text-sky-500 px-4 leading-8"
     >
       Au sein d'une équipe de 3 personnes, maintenance et développement des interfaces front-end.
     </p>
@@ -336,20 +366,20 @@ exports[`ExperienceBlock should match Altaprofits translations snapshot 1`] = `
 exports[`ExperienceBlock should match Wefight EN translations snapshot 1`] = `
 <div>
   <section
-    class="flex flex-col border-2 rounded-xl shadow-md"
+    class="flex flex-col border-2 border-sky-800 rounded-xl shadow-md"
   >
     <h3
-      class="flex text-blue-800 font-bold italic p-4 text-2xl mb-4 border-b-2 justify-between items-center"
+      class="flex text-sky-800 font-bold border-sky-800 italic p-4 text-2xl mb-4 justify-between items-center"
     >
       Wefight 
       <span
-        class="pl-4 text-base text-blue-500"
+        class="pl-4 text-base text-sky-500"
       >
         April 2021 - October 2022
       </span>
     </h3>
     <p
-      class="text-blue-500 px-4 leading-8"
+      class="text-sky-500 px-4 leading-8"
     >
       With the front-end chapter made up of 5 people, design of interfaces for the back office as well as a patient monitoring platform.
     </p>
@@ -386,6 +416,16 @@ exports[`ExperienceBlock should match Wefight EN translations snapshot 1`] = `
       >
         Unit tests, integration tests
       </li>
+      <li
+        class="text-gray-600 leading-8 text-sm"
+      >
+        Tailwind
+      </li>
+      <li
+        class="text-gray-600 leading-8 text-sm"
+      >
+        Redux toolkit
+      </li>
     </ul>
   </section>
 </div>
@@ -394,20 +434,20 @@ exports[`ExperienceBlock should match Wefight EN translations snapshot 1`] = `
 exports[`ExperienceBlock should match Wefight ES translations snapshot 1`] = `
 <div>
   <section
-    class="flex flex-col border-2 rounded-xl shadow-md"
+    class="flex flex-col border-2 border-sky-800 rounded-xl shadow-md"
   >
     <h3
-      class="flex text-blue-800 font-bold italic p-4 text-2xl mb-4 border-b-2 justify-between items-center"
+      class="flex text-sky-800 font-bold border-sky-800 italic p-4 text-2xl mb-4 justify-between items-center"
     >
       Wefight 
       <span
-        class="pl-4 text-base text-blue-500"
+        class="pl-4 text-base text-sky-500"
       >
         Abril 2021 - Octubre 2022
       </span>
     </h3>
     <p
-      class="text-blue-500 px-4 leading-8"
+      class="text-sky-500 px-4 leading-8"
     >
       Con el capítulo front-end conformado por 5 personas, diseño de interfaces para el back office así como una plataforma de seguimiento de pacientes.
     </p>
@@ -444,6 +484,16 @@ exports[`ExperienceBlock should match Wefight ES translations snapshot 1`] = `
       >
         Pruebas de integración, pruebas de unidad
       </li>
+      <li
+        class="text-gray-600 leading-8 text-sm"
+      >
+        Tailwind
+      </li>
+      <li
+        class="text-gray-600 leading-8 text-sm"
+      >
+        Redux toolkit
+      </li>
     </ul>
   </section>
 </div>
@@ -452,20 +502,20 @@ exports[`ExperienceBlock should match Wefight ES translations snapshot 1`] = `
 exports[`ExperienceBlock should match Wefight translations snapshot 1`] = `
 <div>
   <section
-    class="flex flex-col border-2 rounded-xl shadow-md"
+    class="flex flex-col border-2 border-sky-800 rounded-xl shadow-md"
   >
     <h3
-      class="flex text-blue-800 font-bold italic p-4 text-2xl mb-4 border-b-2 justify-between items-center"
+      class="flex text-sky-800 font-bold border-sky-800 italic p-4 text-2xl mb-4 justify-between items-center"
     >
       Wefight 
       <span
-        class="pl-4 text-base text-blue-500"
+        class="pl-4 text-base text-sky-500"
       >
         Avril 2021 - Octobre 2022
       </span>
     </h3>
     <p
-      class="text-blue-500 px-4 leading-8"
+      class="text-sky-500 px-4 leading-8"
     >
       Avec le chapitre front-end constitué de 5 personnes, conception d'interfaces à destination du back-office ainsi que d'une plateforme de suivi patient.
     </p>
@@ -501,6 +551,16 @@ exports[`ExperienceBlock should match Wefight translations snapshot 1`] = `
         class="text-gray-600 leading-8 text-sm"
       >
         Tests unitaire, tests d'intégration
+      </li>
+      <li
+        class="text-gray-600 leading-8 text-sm"
+      >
+        Tailwind
+      </li>
+      <li
+        class="text-gray-600 leading-8 text-sm"
+      >
+        Redux toolkit
       </li>
     </ul>
   </section>
