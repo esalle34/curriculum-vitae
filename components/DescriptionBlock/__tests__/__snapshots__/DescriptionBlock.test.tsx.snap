@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DescriptionBlock should match snapshot 1`] = `
+<div>
+  <section
+    class="flex flex-col pt-2 pb-8"
+  >
+    <p
+      class="text-blue-800 leading-8"
+    >
+      <span
+        class="font-semibold"
+      >
+        Développeur front-end depuis 2017
+      </span>
+      , je crée des fonctionnalités et réalise la maintenance de vos sites et applications.
+    </p>
+    <p
+      class="text-blue-800 leading-8"
+    >
+      <span
+        class="font-semibold"
+      >
+        Curieux et toujours à la recherche de la nouveauté
+      </span>
+      , j'apprécie communiquer et faire découvrir à mes collègues de nouvelles méthodes et de nouveaux outils.
+    </p>
+    <p
+      class="text-blue-800 leading-8"
+    >
+      Enfin, fort d'une expérience en remote je suis capable de pourvoir à vos demandes à distance 
+      <span
+        class="font-semibold"
+      >
+        en toute autonomie
+      </span>
+      .
+    </p>
+  </section>
+</div>
+`;

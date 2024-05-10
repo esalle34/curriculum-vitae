@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Popin should match snapshot correctly 1`] = `
+<div>
+  <div
+    class="absolute w-full h-full flex justify-center items-center"
+    data-testid="popin"
+  >
+    <div
+      class="flex flex-col gap-2 md:w-1/4 bg-slate-100 py-4 px-6 rounded z-10 border-2 border-slate-200"
+    >
+      <div
+        class="flex justify-between items-center"
+      >
+        <h3
+          class="py-2 text-lg font-semibold text-blue-800"
+        >
+          Langue & Pays
+        </h3>
+        <img
+          alt="Fermer"
+          class="cursor-pointer"
+          data-nimg="1"
+          decoding="async"
+          height="20"
+          loading="lazy"
+          role="img"
+          src="/images/cross.svg"
+          style="color: transparent;"
+          title="Fermer"
+          width="20"
+        />
+      </div>
+    </div>
+    <div
+      class="absolute w-full h-full bg-slate-400 opacity-50"
+      data-testid="background"
+    />
+  </div>
+</div>
+`;
+
+exports[`Popin should match snapshot correctly with display false 1`] = `
+<div>
+  <div
+    class="hidden"
+    data-testid="popin"
+  >
+    <div
+      class="flex flex-col gap-2 md:w-1/4 bg-slate-100 py-4 px-6 rounded z-10 border-2 border-slate-200"
+    >
+      <div
+        class="flex justify-between items-center"
+      >
+        <h3
+          class="py-2 text-lg font-semibold text-blue-800"
+        >
+          Langue & Pays
+        </h3>
+        <img
+          alt="Fermer"
+          class="cursor-pointer"
+          data-nimg="1"
+          decoding="async"
+          height="20"
+          loading="lazy"
+          role="img"
+          src="/images/cross.svg"
+          style="color: transparent;"
+          title="Fermer"
+          width="20"
+        />
+      </div>
+    </div>
+    <div
+      class="hidden"
+      data-testid="background"
+    />
+  </div>
+</div>
+`;

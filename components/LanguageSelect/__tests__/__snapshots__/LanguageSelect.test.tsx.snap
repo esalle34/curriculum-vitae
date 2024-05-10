@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CountrySelect should render EN snapshot correctly 1`] = `
+<div>
+  <select
+    class="my-2 p-2 border-2 border-slate-300 rounded"
+  >
+    <option
+      selected=""
+      value="en"
+    >
+      English
+    </option>
+    <option
+      value="fr"
+    >
+      Français
+    </option>
+    <option
+      value="es"
+    >
+      Español
+    </option>
+  </select>
+</div>
+`;
+
+exports[`CountrySelect should render FR snapshot correctly 1`] = `
+<div>
+  <select
+    class="my-2 p-2 border-2 border-slate-300 rounded"
+  >
+    <option
+      value="en"
+    >
+      English
+    </option>
+    <option
+      selected=""
+      value="fr"
+    >
+      Français
+    </option>
+    <option
+      value="es"
+    >
+      Español
+    </option>
+  </select>
+</div>
+`;

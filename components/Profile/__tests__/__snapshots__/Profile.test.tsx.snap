@@ -1,0 +1,265 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile should match snapshot correctly 1`] = `
+<div>
+  <div
+    class="md:ml-4 flex flex-col w-full h-max md:w-60  md:border-2 rounded border-blue-800 md:shadow-xl"
+  >
+    <img
+      class="h-48 md:w-60 md:h-60"
+      src="/images/Diabolo.jpeg"
+    />
+    <div
+      class="bg-blue-800 border-blue-800 border-t-2 rounded-t md:rounded-none text-white p-3"
+    >
+      <p
+        class="text-xl pb-4 text-center font-semibold"
+      >
+        Compétences
+      </p>
+      <ul
+        class="text-sm"
+      >
+        <li
+          class="flex justify-between"
+        >
+          Javascript
+          <span
+            class="flex"
+          >
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+          </span>
+        </li>
+        <li
+          class="flex justify-between"
+        >
+          CSS
+          <span
+            class="flex"
+          >
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+          </span>
+        </li>
+        <li
+          class="flex justify-between"
+        >
+          React
+          <span
+            class="flex"
+          >
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+          </span>
+        </li>
+        <li
+          class="flex justify-between"
+        >
+          Typescript
+          <span
+            class="flex"
+          >
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+          </span>
+        </li>
+        <li
+          class="flex justify-between"
+        >
+          Next
+          <span
+            class="flex"
+          >
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+          </span>
+        </li>
+      </ul>
+      <p
+        class="text-xl py-4 text-center font-semibold"
+      >
+        Langues
+      </p>
+      <ul>
+        <li
+          class="flex justify-between"
+        >
+          Français
+          <span
+            class="flex"
+          >
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+          </span>
+        </li>
+        <li
+          class="flex justify-between"
+        >
+          Anglais
+          <span
+            class="flex"
+          >
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+          </span>
+        </li>
+        <li
+          class="flex justify-between"
+        >
+          Espagnol
+          <span
+            class="flex"
+          >
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+            <img
+              src="/images/yellowStar.png"
+              width="20"
+            />
+          </span>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="bg-blue-800 border-blue-800 text-white border-b-2 md:border-0 rounded-b md:rounded-none p-3"
+    >
+      <p
+        class="text-xl pb-4 text-center font-semibold"
+      >
+        Contact
+      </p>
+      <div
+        class="text-sm flex flex-col gap-4"
+      >
+        <a
+          class="flex justify-between items-center"
+          href="https://www.linkedin.com/in/%F0%9F%92%BB-eric-salle-431664109/"
+        >
+          <img
+            src="/images/LinkedIn_icon.svg"
+            width="30"
+          />
+           Eric Salle
+        </a>
+        <a
+          class="flex justify-between items-center"
+          href="tel:+33683790289"
+        >
+          <img
+            src="/images/smartphone.svg"
+            width="30"
+          />
+           +33 6 83 79 02 89
+        </a>
+        <a
+          class="flex justify-between items-center"
+          href="mail:esalle34@gmail.com"
+        >
+          <img
+            src="/images/mail.svg"
+            width="30"
+          />
+           esalle34@gmail.com
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

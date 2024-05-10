@@ -1,0 +1,42 @@
+{
+  "title": "Curriculum Vitae - Eric Salle",
+  "profil": "Perfil",
+  "description": "<0>Desarrollador front-end desde 2017</0>, creo funcionalidades y mantengo tus sitios y aplicaciones.",
+  "qualities": "<0>Curioso y siempre buscando novedades</0>, disfruto comunicándome e introduciendo a mis colegas nuevos métodos y nuevas herramientas.",
+  "remote": "Por fin, gracias a mi experiencia remota, puedo responder a sus solicitudes a distancia <0>con total autonomía</0>.",
+  "altaprofitsTitle": "Altaprofits <0>Marzo 2017- Marzo 2020</0>",
+  "altaprofitsIntroduction": "Dentro de un equipo de 3 personas, mantenimiento y desarrollo de interfaces front-end.",
+  "altaprofitsWork": [
+    "Configurando la biblioteca React",
+    "Nuevas funcionalidades de la interfaz",
+    "Nuevas funcionalidades del back-office",
+    "Gestión de back office",
+    "Mantenimiento del sitio"
+  ],
+  "wefightTitle": "Wefight <0>Abril 2021 - Octubre 2022</0>",
+  "wefightIntroduction": "Con el capítulo front-end conformado por 5 personas, diseño de interfaces para el back office así como una plataforma de seguimiento de pacientes.",
+  "wefightWork": [
+    "Diseño e integración de interfaces frontend en React - Redux",
+    "Desarrollo en un Backend para frontend en Express",
+    "Gestión de derechos auth0",
+    "Implementación desde una base de datos mongoDB",
+    "Typescript",
+    "Pruebas de integración, pruebas de unidad"
+  ],
+  "24sTitle": "24s (grupo LVMH) <0>Octubre 2022 - ...</0>",
+  "24sIntroduction": "Dentro del capítulo web conformado por 4 personas, mantenimiento y desarrollo de nuevas funcionalidades para la plataforma de comercio electrónico 24s.",
+  "24sWork": [
+    "Diseño de interfaz frontend en React - Redux",
+    "Desarrollo sobre una base Next",
+    "Intervención en varios equipos",
+    "Integración del diseño de los modelos figma",
+    "Typescript",
+    "Pruebas de integración, pruebas de unidad"
+  ],
+  "hardSkills": "Habilidades",
+  "languages": "Idiomas",
+  "french": "Francés",
+  "english": "Inglés",
+  "spanish": "Español",
+  "contact": "Contactar"
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Curriculum Vitae - Eric Salle",
+  "profil": "Profile",
+  "description": "<0>As frontend software engineer since 2017</0>, i bring new nice user interface features and do the maintenance of your websites and apps.",
+  "qualities": "<0>Curious and always seeking new opportunities to learn</0>, i like to communicate and bring new skills to my team members.",
+  "remote": "Furthermore, having experience as remote software engineer, i am able to work with appreciable <0>autonomy</0> as a remote team member.",
+  "altaprofitsTitle": "Altaprofits <0>March 2017- March 2020</0>",
+  "altaprofitsIntroduction": "Within a team of 3 people, maintenance and development of front-end interfaces.",
+  "altaprofitsWork": [
+    "Setting up the React library",
+    "New frontend features",
+    "New back-office features",
+    "Back office management",
+    "Site maintenance"
+  ],
+  "wefightTitle": "Wefight <0>April 2021 - October 2022</0>",
+  "wefightIntroduction": "With the front-end chapter made up of 5 people, design of interfaces for the back office as well as a patient monitoring platform.",
+  "wefightWork": [
+    "Design and integration of frontend interfaces in React - Redux",
+    "Development on a Backend for frontend in Express",
+    "Management of auth0 rights",
+    "Implementation from a mongoDB database",
+    "Typescript",
+    "Unit tests, integration tests"
+  ],
+  "24sTitle": "24s (LVMH group) <0>October 2022 - ...</0>",
+  "24sIntroduction": "Within the web chapter made up of 4 people, maintenance and development of new features for the 24s e-commerce platform.",
+  "24sWork": [
+    "Frontend interface design in React - Redux",
+    "Development on a Next base",
+    "Intervention within several feature teams",
+    "Integration of design from figma models",
+    "Typescript",
+    "Unit tests, integration tests"
+  ],
+  "hardSkills": "Skills",
+  "languages": "Languages",
+  "french": "French",
+  "english": "English",
+  "spanish": "Spanish",
+  "contact": "Contact me"
+}

@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CountrySelect should render EN snapshot correctly 1`] = `
+<div>
+  <select
+    class="my-2 p-2 border-2 border-slate-300 rounded"
+  >
+    <option
+      value="FR"
+    >
+      France
+       - 
+      🇫🇷
+    </option>
+    <option
+      selected=""
+      value="US"
+    >
+      USA
+       - 
+      🇺🇸
+    </option>
+    <option
+      value="GB"
+    >
+      United Kingdom
+       - 
+      🇬🇧
+    </option>
+    <option
+      value="ES"
+    >
+      España
+       - 
+      🇪🇸
+    </option>
+    <option
+      value="LU"
+    >
+      Luxembourg
+       - 
+      🇱🇺
+    </option>
+    <option
+      value="CH"
+    >
+      Suisse
+       - 
+      🇨🇭
+    </option>
+    <option
+      value="BE"
+    >
+      Belgique
+       - 
+      🇧🇪
+    </option>
+  </select>
+</div>
+`;
+
+exports[`CountrySelect should render FR snapshot correctly 1`] = `
+<div>
+  <select
+    class="my-2 p-2 border-2 border-slate-300 rounded"
+  >
+    <option
+      selected=""
+      value="FR"
+    >
+      France
+       - 
+      🇫🇷
+    </option>
+    <option
+      value="US"
+    >
+      USA
+       - 
+      🇺🇸
+    </option>
+    <option
+      value="GB"
+    >
+      United Kingdom
+       - 
+      🇬🇧
+    </option>
+    <option
+      value="ES"
+    >
+      España
+       - 
+      🇪🇸
+    </option>
+    <option
+      value="LU"
+    >
+      Luxembourg
+       - 
+      🇱🇺
+    </option>
+    <option
+      value="CH"
+    >
+      Suisse
+       - 
+      🇨🇭
+    </option>
+    <option
+      value="BE"
+    >
+      Belgique
+       - 
+      🇧🇪
+    </option>
+  </select>
+</div>
+`;

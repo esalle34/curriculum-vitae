@@ -1,0 +1,418 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderNav should match EN - USA snapshot 1`] = `
+<div>
+  <nav
+    class="flex"
+  >
+    <div
+      class="flex w-full justify-between items-center"
+    >
+      <h1
+        class="pl-4 text-gray-100 font-bold text-lg my-2"
+      >
+        Eric Salle
+      </h1>
+      <button
+        class="mr-4 my-4 text-gray-100 font-semibold border-2 border-color-white p-2 rounded hover:bg-white hover:text-blue-800"
+      >
+        EN
+         - 
+        🇺🇸
+      </button>
+    </div>
+    <div
+      class="hidden"
+      data-testid="popin"
+    >
+      <div
+        class="flex flex-col gap-2 md:w-1/4 bg-slate-100 py-4 px-6 rounded z-10 border-2 border-slate-200"
+      >
+        <div
+          class="flex justify-between items-center"
+        >
+          <h3
+            class="py-2 text-lg font-semibold text-blue-800"
+          >
+            Langue & Pays
+          </h3>
+          <img
+            alt="Fermer"
+            class="cursor-pointer"
+            data-nimg="1"
+            decoding="async"
+            height="20"
+            loading="lazy"
+            role="img"
+            src="/images/cross.svg"
+            style="color: transparent;"
+            title="Fermer"
+            width="20"
+          />
+        </div>
+        <select
+          class="my-2 p-2 border-2 border-slate-300 rounded"
+        >
+          <option
+            value="FR"
+          >
+            France
+             - 
+            🇫🇷
+          </option>
+          <option
+            selected=""
+            value="US"
+          >
+            USA
+             - 
+            🇺🇸
+          </option>
+          <option
+            value="GB"
+          >
+            United Kingdom
+             - 
+            🇬🇧
+          </option>
+          <option
+            value="ES"
+          >
+            España
+             - 
+            🇪🇸
+          </option>
+          <option
+            value="LU"
+          >
+            Luxembourg
+             - 
+            🇱🇺
+          </option>
+          <option
+            value="CH"
+          >
+            Suisse
+             - 
+            🇨🇭
+          </option>
+          <option
+            value="BE"
+          >
+            Belgique
+             - 
+            🇧🇪
+          </option>
+        </select>
+        <select
+          class="my-2 p-2 border-2 border-slate-300 rounded"
+        >
+          <option
+            selected=""
+            value="en"
+          >
+            English
+          </option>
+          <option
+            value="fr"
+          >
+            Français
+          </option>
+          <option
+            value="es"
+          >
+            Español
+          </option>
+        </select>
+        <button
+          class="self-end rounded-lg text-blue-800 border-blue-800 hover:bg-blue-800 hover:text-white border-2 p-2"
+        >
+          Valider
+        </button>
+      </div>
+      <div
+        class="hidden"
+        data-testid="background"
+      />
+    </div>
+  </nav>
+</div>
+`;
+
+exports[`HeaderNav should match ES - Spain snapshot 1`] = `
+<div>
+  <nav
+    class="flex"
+  >
+    <div
+      class="flex w-full justify-between items-center"
+    >
+      <h1
+        class="pl-4 text-gray-100 font-bold text-lg my-2"
+      >
+        Eric Salle
+      </h1>
+      <button
+        class="mr-4 my-4 text-gray-100 font-semibold border-2 border-color-white p-2 rounded hover:bg-white hover:text-blue-800"
+      >
+        ES
+         - 
+        🇪🇸
+      </button>
+    </div>
+    <div
+      class="hidden"
+      data-testid="popin"
+    >
+      <div
+        class="flex flex-col gap-2 md:w-1/4 bg-slate-100 py-4 px-6 rounded z-10 border-2 border-slate-200"
+      >
+        <div
+          class="flex justify-between items-center"
+        >
+          <h3
+            class="py-2 text-lg font-semibold text-blue-800"
+          >
+            Langue & Pays
+          </h3>
+          <img
+            alt="Fermer"
+            class="cursor-pointer"
+            data-nimg="1"
+            decoding="async"
+            height="20"
+            loading="lazy"
+            role="img"
+            src="/images/cross.svg"
+            style="color: transparent;"
+            title="Fermer"
+            width="20"
+          />
+        </div>
+        <select
+          class="my-2 p-2 border-2 border-slate-300 rounded"
+        >
+          <option
+            value="FR"
+          >
+            France
+             - 
+            🇫🇷
+          </option>
+          <option
+            value="US"
+          >
+            USA
+             - 
+            🇺🇸
+          </option>
+          <option
+            value="GB"
+          >
+            United Kingdom
+             - 
+            🇬🇧
+          </option>
+          <option
+            selected=""
+            value="ES"
+          >
+            España
+             - 
+            🇪🇸
+          </option>
+          <option
+            value="LU"
+          >
+            Luxembourg
+             - 
+            🇱🇺
+          </option>
+          <option
+            value="CH"
+          >
+            Suisse
+             - 
+            🇨🇭
+          </option>
+          <option
+            value="BE"
+          >
+            Belgique
+             - 
+            🇧🇪
+          </option>
+        </select>
+        <select
+          class="my-2 p-2 border-2 border-slate-300 rounded"
+        >
+          <option
+            value="en"
+          >
+            English
+          </option>
+          <option
+            value="fr"
+          >
+            Français
+          </option>
+          <option
+            selected=""
+            value="es"
+          >
+            Español
+          </option>
+        </select>
+        <button
+          class="self-end rounded-lg text-blue-800 border-blue-800 hover:bg-blue-800 hover:text-white border-2 p-2"
+        >
+          Valider
+        </button>
+      </div>
+      <div
+        class="hidden"
+        data-testid="background"
+      />
+    </div>
+  </nav>
+</div>
+`;
+
+exports[`HeaderNav should match FR - France snapshot 1`] = `
+<div>
+  <nav
+    class="flex"
+  >
+    <div
+      class="flex w-full justify-between items-center"
+    >
+      <h1
+        class="pl-4 text-gray-100 font-bold text-lg my-2"
+      >
+        Eric Salle
+      </h1>
+      <button
+        class="mr-4 my-4 text-gray-100 font-semibold border-2 border-color-white p-2 rounded hover:bg-white hover:text-blue-800"
+      >
+        FR
+         - 
+        🇫🇷
+      </button>
+    </div>
+    <div
+      class="hidden"
+      data-testid="popin"
+    >
+      <div
+        class="flex flex-col gap-2 md:w-1/4 bg-slate-100 py-4 px-6 rounded z-10 border-2 border-slate-200"
+      >
+        <div
+          class="flex justify-between items-center"
+        >
+          <h3
+            class="py-2 text-lg font-semibold text-blue-800"
+          >
+            Langue & Pays
+          </h3>
+          <img
+            alt="Fermer"
+            class="cursor-pointer"
+            data-nimg="1"
+            decoding="async"
+            height="20"
+            loading="lazy"
+            role="img"
+            src="/images/cross.svg"
+            style="color: transparent;"
+            title="Fermer"
+            width="20"
+          />
+        </div>
+        <select
+          class="my-2 p-2 border-2 border-slate-300 rounded"
+        >
+          <option
+            selected=""
+            value="FR"
+          >
+            France
+             - 
+            🇫🇷
+          </option>
+          <option
+            value="US"
+          >
+            USA
+             - 
+            🇺🇸
+          </option>
+          <option
+            value="GB"
+          >
+            United Kingdom
+             - 
+            🇬🇧
+          </option>
+          <option
+            value="ES"
+          >
+            España
+             - 
+            🇪🇸
+          </option>
+          <option
+            value="LU"
+          >
+            Luxembourg
+             - 
+            🇱🇺
+          </option>
+          <option
+            value="CH"
+          >
+            Suisse
+             - 
+            🇨🇭
+          </option>
+          <option
+            value="BE"
+          >
+            Belgique
+             - 
+            🇧🇪
+          </option>
+        </select>
+        <select
+          class="my-2 p-2 border-2 border-slate-300 rounded"
+        >
+          <option
+            value="en"
+          >
+            English
+          </option>
+          <option
+            selected=""
+            value="fr"
+          >
+            Français
+          </option>
+          <option
+            value="es"
+          >
+            Español
+          </option>
+        </select>
+        <button
+          class="self-end rounded-lg text-blue-800 border-blue-800 hover:bg-blue-800 hover:text-white border-2 p-2"
+        >
+          Valider
+        </button>
+      </div>
+      <div
+        class="hidden"
+        data-testid="background"
+      />
+    </div>
+  </nav>
+</div>
+`;
