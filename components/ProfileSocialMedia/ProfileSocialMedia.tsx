@@ -13,13 +13,13 @@ const ProfileSocialeMedia = ({ contact }: Props) => (
         <img src="/images/LinkedIn_icon.svg" width={30} /> Eric Salle
       </a>
       <a className="flex justify-between items-center" href="tel:+33683790289">
-        <img src="/images/smartphone.svg" width={30} /> +33 6 83 79 02 89
+        <img src="/images/smartphone.png" width={30} /> +33 6 83 79 02 89
       </a>
       <a
         className="flex justify-between items-center"
         href="mailto:esalle34@gmail.com"
       >
-        <img src="/images/mail.svg" width={30} /> esalle34@gmail.com
+        <img src="/images/mail.png" width={30} /> esalle34@gmail.com
       </a>
       <a
         className="flex justify-between items-center"
